@@ -3,6 +3,8 @@
 ## Overview
 This project is a simple **AI-Powered Stock Price Predictor** that fetches real-time stock data, trains a **Linear Regression** model, and predicts future stock prices. The model is built using **Python**, leveraging data science libraries like **yFinance, Scikit-Learn, Pandas, and Matplotlib**.
 
+![Alt Text](image.png)
+
 ## Features
 - Fetches **real-time stock data** from Yahoo Finance
 - Prepares data by converting dates into numerical values
@@ -30,8 +32,6 @@ pip install yfinance pandas numpy scikit-learn matplotlib seaborn
 python stock_price_predictor.py
 ```
 The default stock symbol is **AAPL (Apple Inc.)**. You can modify the `ticker` variable in the script to predict other stocks.
-
-![Alt Text](image.png)
 
 ## Example Output
 ```
