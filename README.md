@@ -31,6 +31,8 @@ python stock_price_predictor.py
 ```
 The default stock symbol is **AAPL (Apple Inc.)**. You can modify the `ticker` variable in the script to predict other stocks.
 
+![Alt Text](image.png)
+
 ## Example Output
 ```
 MAE: 2.45
