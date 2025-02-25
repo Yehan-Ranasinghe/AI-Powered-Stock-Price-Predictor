@@ -51,6 +51,6 @@ A plot will also be displayed showing actual vs. predicted stock prices.
 This project is open-source under the **MIT License**.
 
 ## Author
-[Yehan Ranasinghe](https://github.com/your-github)
+[Yehan Ranasinghe]([https://github.com/your-github](https://github.com/Yehan-Ranasinghe/))
 
 
